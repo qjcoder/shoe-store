@@ -15,7 +15,7 @@ const Header = () => {
       z-20 sticky top-0 
       transition-transform duration-300 ${show}`}
     >
-      <Wrapper>sjhjhdjahdjshjshdjshadj</Wrapper>
+      <Wrapper></Wrapper>
     </header>
   );
 };
