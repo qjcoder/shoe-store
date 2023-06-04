@@ -1,3 +1,9 @@
+import HeroBanner from "@/components/hero-banner";
+
 export default function Home() {
-  return <main className="h-[2000px] " >Home Page....</main>;
+  return (
+    <main>
+      <HeroBanner />
+    </main>
+  );
 }
